@@ -1,7 +1,7 @@
 # Aerial-Manipulator-Simulation-Environment
 This repository provides a Python-based simulation environment for a *3-link aerial manipulator*. 
 
-![pic](Aerial_Manipulator.png)
+<img src="Aerial_Manipulator.png" width="300">
 
 The dynamic model of the system is developed and implemented based on the following research papers:
 
