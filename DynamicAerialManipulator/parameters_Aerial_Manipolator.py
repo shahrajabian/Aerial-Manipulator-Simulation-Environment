@@ -44,6 +44,7 @@ k_vy = 0.35
 k_vz = 0.45
 
 rad = np.pi/180
+
 # Constraints 
 #max_thrust = 30.0  # Max thrust for each motor (N)
 #min_thrust = 0.0   # Min thrust (N)
