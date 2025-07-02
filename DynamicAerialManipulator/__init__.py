@@ -1,0 +1,1 @@
+from DynamicAerialManipulator.parameters_Aerial_Manipolator import parameters
