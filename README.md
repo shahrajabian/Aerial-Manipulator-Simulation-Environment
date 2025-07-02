@@ -7,7 +7,7 @@ The dynamic model of the system is developed and implemented based on the follow
 
 - S. Kim, H. Seo, S. Choi, and H. J. Kim, "Vision-Guided Aerial Manipulation Using a Multirotor With a Robotic Arm," IEEE/ASME Transactions on Mechatronics, vol. 21, no. 4, pp. 1912–1923, Aug. 2016.  [doi:10.1109/TMECH.2016.2523602](https://doi.org/10.1109/TMECH.2016.2523602)
 
-- S. A. Emami, A. Banazadeh, "Simultaneous trajectory tracking and aerial manipulation using a multi-stage model predictive control," Aerospace Science and Technology, vol. 112, 2021, article 106573. [doi:10.1016/j.ast.2021.106573](10.1016/j.ast.2021.106573)
+- S. A. Emami, A. Banazadeh, "Simultaneous trajectory tracking and aerial manipulation using a multi-stage model predictive control," Aerospace Science and Technology, vol. 112, 2021, article 106573. [doi:10.1016/j.ast.2021.106573](https://doi.org/10.1016/j.ast.2021.106573)
 
 ## Implementation Files
 This repository includes the following Python scripts:
